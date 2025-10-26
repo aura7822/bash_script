@@ -3,6 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=50&color=0000ff&center=true&width=1200&height=100&lines=SCRIPTING%20WITH%20BASH" alt="Typing SVG" />
 </a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+```
 
    ◯▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩ ◯"
    ▨                                                                                         ▨ "
@@ -15,7 +16,7 @@
    ▨                                                                                         ▨ "
    ▨                        🧠 SYSTEM SERVANT DAEMON — UTILITY EDITION®                      ▨ "
    ◯▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩ ◯"
-
+```
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ### DESCRIPTION : 
@@ -51,11 +52,19 @@ cd bash_script
 ❢ Grant necessary permissions :
 
 ```
-chmod +x setup.sh
+chmod +x servant.sh
 ```
 ❢ Execute it :
 
 ```
+./servant.sh
+```
+---
+### ONE AT A GO SCRIPT : 
+```
+git clone https://github.com/aura7822/bash_script.git
+cd bash_script
+chmod +x servant.sh
 ./servant.sh
 ```
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -63,20 +72,14 @@ chmod +x setup.sh
 
 ### PRERIQUISITES :
 
-The script only runs on the following linux distros :
+Package management systems (PMS):
 
-   ❖ Manjaro Linux    ❖ Kali linux                    ❖ Ubuntu
+  ❖ pacman
 
-   ❖ Linux mint       ❖ Zorin os                      ❖ Garuda os
+  ❖ apt
 
-   ❖ POP!_os          ❖ Elementary os                 ❖ Endevour os 
-
-   ❖ Fedora           ❖ Arch linux                    ❖ Chakra linux
-
-   ❖ Parrot os        ❖ Rasberry pi os                ❖ Red Hat Enterprise Linux (RHEL)
-
-Any other distro that uses `apt` , `pacman`, or `dnf`
-
+  ❖ dnf
+  
 ---
 
 <p align="center">
