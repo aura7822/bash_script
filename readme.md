@@ -87,6 +87,26 @@ Package management systems (PMS):
     <img src="https://skillicons.dev/icons?i=arch,bash,debian,linux,mint,nix,redhat,ubuntu" />
   </a>
 </p>
+▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩
+ <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+ 
+ ### TERMINAL INTRO...
+
+ ⮚ install in these steps :↴
+ ```
+git clone https://github.com/aura7822/bash_script.git
+cd bash_script
+chmod +x startup.sh
+```
+⮚ Add to your ./bashrc : 
+```
+bash ~/startup.sh
+# autostart it :
+source ~/.bashrc
+```
+ <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+
 
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
