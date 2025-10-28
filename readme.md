@@ -97,6 +97,7 @@ Package management systems (PMS):
 git clone https://github.com/aura7822/bash_script.git
 cd bash_script
 chmod +x startup.sh
+sudo snap install figlet lolcat
 ```
 ⮚ Add to your ./bashrc : 
 ```
@@ -104,6 +105,7 @@ bash ~/startup.sh
 # autostart it :
 source ~/.bashrc
 ```
+
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
